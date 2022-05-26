@@ -1,7 +1,7 @@
 # Hi there ! I'm Jonathan 🦊
 
 [![Blog Badge](https://img.shields.io/badge/blog-renardjojo.com-orange)](https://renardjojo.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Six-0072b1?style=flat&logo=Linkedin&logoColor=white)]([[[https://www.linkedin.com/in/renardjojo/](https://www.linkedin.com/in/jonathan-six-4553611a9/)](https://www.linkedin.com/in/jonathan-six-4553611a9/)](https://www.linkedin.com/in/jonathan-six-4553611a9/) "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Six-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-six-4553611a9/ "Connect on LinkedIn")
 <!---
 [![Twitter Badge](https://img.shields.io/badge/-@Jonathan%20Six-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/renardjojo "Follow on Twitter")
 [![mail Badge](https://img.shields.io/badge/-j.six@student.isartdigital.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.six@student.isartdigital.com "Connect via Email")
@@ -32,8 +32,9 @@ I'm proficient at:
 
 ## 💼 Experience
 
-I am currently working at Ubisoft Paris Mobile as an assistant renderer for a mobile game. <br />
+I am currently working at **Ubisoft Paris Mobile** as an assistant renderer for a mobile game. <br />
 I also worked at Eversim to improve the rendering features of their game engine. <br />
+And before ? I was a **nurse** 💉<br />
 ➡️ [Here](https://www.figma.com/proto/F3Eh2OxE0z9q2HAe69eyQa/Culture-Kits-Community?node-id=6%3A1858) my CV<br />
 ➡️ [Here](https://www.linkedin.com/in/jonathan-six-4553611a9/) my linkedin profile  <br />
 
