@@ -1,11 +1,16 @@
-# Hi there ! I'm Jonathan 🦊
+<h1 align="center">Hi there ! I'm Jonathan 🦊</h1>
+<h3 align="center">Rendering Programmer Assistant at Ubisoft Paris Mobile</h3>
 
-[![Blog Badge](https://img.shields.io/badge/blog-renardjojo.com-orange)](https://renardjojo.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Six-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-six-4553611a9/ "Connect on LinkedIn")
-<!---
-[![Twitter Badge](https://img.shields.io/badge/-@Jonathan%20Six-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/renardjojo "Follow on Twitter")
-[![mail Badge](https://img.shields.io/badge/-j.six@student.isartdigital.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.six@student.isartdigital.com "Connect via Email")
--->
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=renardjojo&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
+
+  <td align="center" style="padding=0;width=70%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=renardjojo&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
+    </td>
+  </tr>
+</p>
 
 I am a video game programmer focused on rendering part from Paris, France 🇫🇷 pursuing a Masters in game programming at Isart digital, who is passionate about rendering, programming and chess♟️. I love to learn and to share my knowledge with others at my [blog](https://renardjojo.github.io/).
 
@@ -26,21 +31,6 @@ I'm proficient at:
   -  Physic
   -  Architecture (ECS, entity based, ECSG...)
   -  GUI
- 
- <table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=renardjojo&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
-
-  <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=renardjojo&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
-    </td>
-  </tr>
-</table>
-
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renardjojo&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=renardjojo&show_icons=true&hide_border=true)
 
 ## 💼 Experience
 
@@ -48,9 +38,7 @@ I am currently working at **Ubisoft Paris Mobile** as an assistant renderer for 
 I also worked at Eversim to improve the rendering features of their game engine. <br />
 And before ? I was a **nurse** 💉<br />
 ➡️ [Here](https://www.figma.com/proto/F3Eh2OxE0z9q2HAe69eyQa/Culture-Kits-Community?node-id=6%3A1858) my CV<br />
-➡️ [Here](https://www.linkedin.com/in/jonathan-six-4553611a9/) my linkedin profile  <br />
 
-<!-- ## 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- ➡️ [More ...](https://renardjojo.github.io/) -->
+<p align="center">
+<a href="https://www.linkedin.com/in/jonathan-six-4553611a9/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn social link (Six Jonathan)" height="30" width="40" /></a>
+</p>
