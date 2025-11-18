@@ -26,7 +26,7 @@ I'm proficient at:
   -  AI (Machine learning, UtilitySystem, BT, state machine...)
   -  online architecture
   -  Physic
-  -  Architecture (ECS, entity based, ECSG...)
+  -  Architecture (ECS, entity based, mutitheading, data oriented...)
   -  GUI
   -  And so much more...
 
