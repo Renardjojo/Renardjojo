@@ -3,7 +3,7 @@
 
 <p align="center">
       <img align="center" width="54%" style="padding=0;" src="https://github-stats-extended.vercel.app/api?username=renardjojo&hide_border=true&icon_color=C9F9D9&hide_title=true" />
-      <img align="center" width="35%" style="padding=0;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renardjojo&layout=compact&hide_border=true" />
+      <img align="center" width="36%" style="padding=0;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renardjojo&layout=compact&hide_border=true" />
 </p>
 
 I am a rendering programmer from Paris, France 🇫🇷.  
