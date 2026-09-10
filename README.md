@@ -1,9 +1,9 @@
 <h1 align="center">Hi there ! I'm Jonathan 🦊</h1>
 <h3 align="center">Rendering Programmer Assistant at Ubisoft Paris Mobile</h3>
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
-      <img align="center" width="54%" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=renardjojo&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
-      <img align="center" width="37%" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=renardjojo&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
+      <img align="center" width="54%" style="padding=0;" src="https://github-stats-extended.vercel.app/api?username=renardjojo&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
+      <img align="center" width="37%" style="padding=0;" src="https:/github-stats-extended.vercel.app/api/top-langs/?username=renardjojo&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
 </p>
 
 I am a rendering programmer from Paris, France 🇫🇷.  
